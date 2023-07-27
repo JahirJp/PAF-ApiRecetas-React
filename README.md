@@ -1,4 +1,4 @@
-## Available Scripts
+## Para lanzar la app
 
 Se descarga el archivo o se clona, y se instalan las dependencias que falta a través del comando
 
