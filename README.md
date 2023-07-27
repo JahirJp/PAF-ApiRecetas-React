@@ -1,11 +1,13 @@
 ## Available Scripts
 
-In the project directory, you can run:
+Se descarga el archivo o se clona, y se instalan las dependencias que falta a través del comando
+
+### `npm install`
+
+Para correr la app 
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Una vez en la aplicación dar click en buscar para que se muestre la información
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
